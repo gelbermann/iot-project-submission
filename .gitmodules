@@ -1,0 +1,9 @@
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:gelbermann/iot-smart-locker.git
+[submodule "arudino"]
+	path = arudino
+	url = git@github.com:gelbermann/iot-arduino.git
+[submodule "esp32cam"]
+	path = esp32cam
+	url = git@github.com:gelbermann/iot-esp32cam.git
